@@ -267,10 +267,10 @@
     text-align: left;
 }
 .logo .fa{
-    display: #87ce25;
+    display:block ;
 }
 .show-nav{
-    display: #87ce25;
+    display: block ;
 }
 .desktop-banner{
     display: none;
