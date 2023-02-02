@@ -279,11 +279,11 @@ Background-color:green;
 .show-nav{
     display: block ;
 }
-.desktop-banner{
+.desktop-banner img{
     display: none;
     
 }
-.mobile-banner{
+.mobile-banner img{
     display: block;
     
 }
