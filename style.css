@@ -279,12 +279,14 @@ Background-color:green;
 .show-nav{
     display: block ;
 }
-.desktop-banner img{
+.desktop-banner{
     display: none;
     
 }
 .mobile-banner img{
     display: block;
+     width: 100%;
+    height: 400px;
     
 }
 .about{
